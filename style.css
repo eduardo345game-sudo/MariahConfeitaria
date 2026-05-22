@@ -124,7 +124,7 @@ nav a.ativo::after{
       rgba(20,0,8,.02) 100%
     ),
 
-    url('assets/hero.png');
+    url('hero.png');
 
   background-size:cover;
   background-position:center;
@@ -609,7 +609,7 @@ footer p{
         rgba(25,0,10,.72),
         rgba(25,0,10,.50)
       ),
-      url('assets/hero.png');
+      url('hero.png');
 
     background-size:cover;
     background-position:65% center;
